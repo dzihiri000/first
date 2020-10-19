@@ -1,0 +1,28 @@
+{
+  "name": "first",
+  "version": "1.0.0",
+  "description": "first maket",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel src/index.html --open",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dzihiri000/first.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dzihiri000/first/issues"
+  },
+  "homepage": "https://github.com/dzihiri000/first#readme",
+  "dependencies": {
+    "autoprefixer": "^10.0.1",
+    "parcel": "^2.0.0-nightly.425",
+    "parcel-bundler": "^1.12.4",
+    "postcss-modules": "^3.2.2",
+    "sass": "^1.27.0"
+  }
+}
